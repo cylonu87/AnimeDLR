@@ -11,4 +11,4 @@ AnimeDLR is a material design android app scraping streaming sources to stream  
 
 [Download page](https://github.com/cylonu87/ADLR/releases)
 
-2018-03-09
+2018-11-23
