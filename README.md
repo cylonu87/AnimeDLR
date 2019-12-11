@@ -9,6 +9,4 @@ AnimeDLR is a material design android app scraping streaming sources to stream  
 * Update your MyAnimeList list.
 * Watch the video with the app's player or an external app.
 
-[Download page](https://github.com/cylonu87/ADLR/releases)
-
-2019-01-18
+[Download page](https://github.com/cylonu87/AnimeDLR/releases)
